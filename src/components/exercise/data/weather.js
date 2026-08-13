@@ -1,0 +1,18 @@
+export const weatherList = [
+  { id: 'city_01', name: '서울', temp: 30, status: '맑음', humidity: 65 },
+  { id: 'city_02', name: '인천', temp: 29, status: '맑음', humidity: 68 },
+  { id: 'city_03', name: '경기', temp: 30, status: '맑음', humidity: 67 },
+  { id: 'city_04', name: '강원', temp: 22, status: '비', humidity: 82 },
+  { id: 'city_05', name: '대구', temp: 32, status: '맑음', humidity: 60 },
+  { id: 'city_06', name: '울산', temp: 23, status: '비', humidity: 78 },
+  { id: 'city_07', name: '부산', temp: 28, status: '맑음', humidity: 80 },
+  { id: 'city_08', name: '대전', temp: 24, status: '구름', humidity: 70 },
+  { id: 'city_09', name: '광주', temp: 31, status: '맑음', humidity: 65 },
+  { id: 'city_10', name: '충북', temp: 26, status: '구름', humidity: 72 },
+  { id: 'city_11', name: '충남', temp: 27, status: '맑음', humidity: 70 },
+  { id: 'city_12', name: '전북', temp: 29, status: '맑음', humidity: 68 },
+  { id: 'city_13', name: '전남', temp: 30, status: '맑음', humidity: 72 },
+  { id: 'city_14', name: '경북', temp: 32, status: '맑음', humidity: 60 },
+  { id: 'city_15', name: '경남', temp: 28, status: '비', humidity: 76 },
+  { id: 'city_16', name: '제주', temp: 24, status: '구름', humidity: 78 },
+]
